@@ -1,0 +1,38 @@
+[
+    {
+        "id": 3,
+        "model": "BMW M1",
+        "godiste": 1980,
+        "cena": 1000,
+        "klima": true,
+        "dostupnost": true,
+        "ocene":[4,4,5,3]
+    },
+    {
+        "id": 1,
+        "model": "Acado GT",
+        "godiste": 1989,
+        "cena": 2000,
+        "klima": false,
+        "dostupnost": true,
+        "ocene":[5,5,4]
+    },
+    {
+        "id": 4,
+        "model": "DeLorean DMC-12",
+        "godiste": 1981,
+        "cena": 2500,
+        "klima": true,
+        "dostupnost": false,
+        "ocene":[5,2,4,2]
+    },
+    {
+        "id": 2,
+        "model": "Toyota Supra",
+        "godiste": 1985,
+        "cena": 1500,
+        "klima": true,
+        "dostupnost": true,
+        "ocene":[5,5,5,5,5]
+    }
+]
